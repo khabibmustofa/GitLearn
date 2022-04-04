@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Content file kedua
+=======
+Ubah isi content kedua
+>>>>>>> mytask
